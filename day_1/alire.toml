@@ -1,0 +1,12 @@
+name = "day_1"
+description = "AoC 2024 Day 1 from Irvise on github"
+version = "0.1.0-dev"
+
+authors = ["Bob Plested"]
+maintainers = ["Bob Plested <agar29@yahoo.com>"]
+maintainers-logins = ["plestedr"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["day_1"]
